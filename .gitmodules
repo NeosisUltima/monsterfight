@@ -1,0 +1,3 @@
+[submodule "monsterfight"]
+	path = monsterfight
+	url = https://github.com/NeosisUltima/monsterfight.git
